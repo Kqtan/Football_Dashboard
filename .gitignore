@@ -1,0 +1,8 @@
+# git ignore
+/data/
+*.csv
+/def_func/__pycache__/
+/foot_dash/
+
+scrap_colors.py
+team_colors.*
